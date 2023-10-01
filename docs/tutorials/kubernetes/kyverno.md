@@ -57,7 +57,7 @@ Next, apply the above policy:
 kubectl apply -f vuln-attestation.yaml
 ```
 
-To ensure that the policy worked, we can deploye an example deployment file with our container image:
+To ensure that the policy worked, we can deploy an example deployment file with our container image:
 
 deployment.yaml
 ```
